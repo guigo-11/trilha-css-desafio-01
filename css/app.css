@@ -1,0 +1,17 @@
+/* =========================================
+    RESET ALL ELEMTENS
+   =========================================
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background: url("/assets/images/banner.png") linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
+}
+
+.banner-content {
+    margin-top: 5%;
+    align-self: center;
+}
